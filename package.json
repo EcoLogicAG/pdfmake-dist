@@ -2,9 +2,10 @@
   "name": "pdfmake-dist",
   "version": "0.1.17",
   "description": "Browser version for https://github.com/bpampuch/pdfmake",
-  "main": "build/vfs_fonts.js",
+  "main": "build/pdfmake.min.js",
   "files":  [
-    "build/pdfmake.min.js"
+    "build/pdfmake.min.js",
+    "build/vfs_fonts.js"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
