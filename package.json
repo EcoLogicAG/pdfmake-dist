@@ -1,0 +1,23 @@
+{
+  "name": "pdfmake-dist",
+  "version": "0.1.17",
+  "description": "Browser version for https://github.com/bpampuch/pdfmake",
+  "main": "build/pdfmake.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EcoLogicAG/pdfmake-dist.git"
+  },
+  "keywords": [
+    "pdfmake",
+    "browser"
+  ],
+  "author": "Markus Huggler <markus.huggler@ecologic.ch>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EcoLogicAG/pdfmake-dist/issues"
+  },
+  "homepage": "https://github.com/EcoLogicAG/pdfmake-dist#readme"
+}
