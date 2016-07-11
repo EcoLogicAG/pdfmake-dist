@@ -4,8 +4,7 @@
   "description": "Browser version for https://github.com/bpampuch/pdfmake",
   "main": "build/pdfmake.min.js",
   "files":  [
-    "build/pdfmake.min.js",
-    "build/vfs_fonts.js"
+    "build/pdfmake.min.js"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
