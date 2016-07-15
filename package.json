@@ -4,7 +4,8 @@
   "description": "Browser version for https://github.com/bpampuch/pdfmake",
   "main": "build/pdfmake.min.js",
   "files":  [
-    "build/"
+    "build/pdfmake.min.js",
+    "build/pdfmake.d.ts"
   ],
   "typings": "build/pdfmake.d.ts",
   "scripts": {
