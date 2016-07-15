@@ -1,12 +1,12 @@
 {
   "name": "pdfmake-dist",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Browser version for https://github.com/bpampuch/pdfmake",
   "main": "build/pdfmake.min.js",
   "files":  [
-    "build/pdfmake.min.js"
+    "build/"
   ],
-  "typings": "typings/pdfmake.d.ts",
+  "typings": "build/pdfmake.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
